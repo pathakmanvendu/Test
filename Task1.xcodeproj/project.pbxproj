@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5CC331332BABDC22001056D7 /* SheetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC331322BABDC22001056D7 /* SheetViewController.swift */; };
 		5CD3B6EC2BAB072400292B7D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD3B6EB2BAB072400292B7D /* AppDelegate.swift */; };
 		5CD3B6EE2BAB072400292B7D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD3B6ED2BAB072400292B7D /* SceneDelegate.swift */; };
 		5CD3B6F02BAB072400292B7D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD3B6EF2BAB072400292B7D /* ViewController.swift */; };
@@ -16,6 +17,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5CC331322BABDC22001056D7 /* SheetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetViewController.swift; sourceTree = "<group>"; };
+		5CC331342BABE1FF001056D7 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		5CC331352BABE1FF001056D7 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
 		5CD3B6E82BAB072400292B7D /* Task1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Task1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CD3B6EB2BAB072400292B7D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5CD3B6ED2BAB072400292B7D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,9 @@
 				5CD3B6EB2BAB072400292B7D /* AppDelegate.swift */,
 				5CD3B6ED2BAB072400292B7D /* SceneDelegate.swift */,
 				5CD3B6EF2BAB072400292B7D /* ViewController.swift */,
+				5CC331322BABDC22001056D7 /* SheetViewController.swift */,
+				5CC331342BABE1FF001056D7 /* Inter-Medium.ttf */,
+				5CC331352BABE1FF001056D7 /* Inter-Regular.ttf */,
 				5CD3B6F12BAB072400292B7D /* Main.storyboard */,
 				5CD3B6F42BAB072600292B7D /* Assets.xcassets */,
 				5CD3B6F62BAB072600292B7D /* LaunchScreen.storyboard */,
@@ -138,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CC331332BABDC22001056D7 /* SheetViewController.swift in Sources */,
 				5CD3B6F02BAB072400292B7D /* ViewController.swift in Sources */,
 				5CD3B6EC2BAB072400292B7D /* AppDelegate.swift in Sources */,
 				5CD3B6EE2BAB072400292B7D /* SceneDelegate.swift in Sources */,
